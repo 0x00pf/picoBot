@@ -528,7 +528,7 @@ main (int argc, char *argv[]) {
   char           buffer[BSIZE];
   int            i, n, r, fd1;
 
-  printf ("picoBot v 0.2\n");
+  printf ("picoBot v 0.4\n");
   for (i = 0; i < MAX_CONN; ses[i].fd = pfd[i++].fd = -1);
 
   // Create command managers
