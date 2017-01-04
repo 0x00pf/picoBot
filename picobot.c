@@ -1,6 +1,6 @@
 /*
  * picoBot: A Educational IRC Bot
- * Copyright (c) 2016 pico
+ * Copyright (c) 2017 pico
  *
  * This file is part of picoBot
  *
